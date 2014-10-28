@@ -10,7 +10,7 @@ namespace Teask1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world Git!");
+            Console.WriteLine("Hello world Git! I am going on!");
         }
     }
 }
